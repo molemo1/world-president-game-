@@ -1,2 +1,2 @@
-# world-president-game-
+# world-president-game
 Simulator game 
